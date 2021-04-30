@@ -1,4 +1,4 @@
-##Assignment 1 - Front End Assignment for Attainu
+## Assignment 1 - Front End Assignment for Attainu
 Steps to get Data 
 1. git clone https://github.com/attainu/test_data
 2. npm install
